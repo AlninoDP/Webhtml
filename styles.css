@@ -1,0 +1,57 @@
+h1 {
+	color : blue;
+	float : center;
+}
+
+table, th, td {
+border :1px solid black;
+border-collapse : collapse;
+}
+
+.macamlist {
+width : 50%;
+border : 2px solid black;
+padding-left : 1em;
+margin-bottom : 10px;
+
+}
+
+#DescriptionList {
+display : inline-block;
+
+}
+
+
+#UnorderedList {
+display : inline-block;
+margin : 5px;
+}
+
+#OrderedList {
+display : inline-block;
+margin : 5px;
+}
+
+
+.jswithhtml {
+margin : 5px;
+padding-left : 10px;
+padding-bottom : 5px;
+border : 2px solid black;
+width : 50%;
+}
+
+#changeText {
+display : inline-block;
+margin : 5px;
+}
+
+#showDateTime {
+display : inline-block;
+margin : 5px;
+}
+
+#styleElement {
+display : inline-block;
+margin : 5px;
+}
